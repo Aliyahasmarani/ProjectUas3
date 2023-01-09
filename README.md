@@ -1,0 +1,21 @@
+# pertemuan16 
+
+```s
+NAMA    : ALIYAH ASMARANI
+NIM     : 312210203
+KELAS   : TI.22.A.2
+MATKUL  : BAHASA PEMROGRAMAN
+```
+
+# PENJELASAN PROGRAM BERUPA PDF, SILAHKAN KLIK LINK DI BAWAH INI:
+
+https://drive.google.com/file/d/1PPhMQI5Q-XbczdXON2nFZgS1APSICYxz/view?usp=sharing
+
+# PENJELASAN PROGRAM BERUPA VIDEO, SILAHKAN KLIK LINK DI BAWAH INI:
+
+https://youtu.be/Yjl9P-UnDoI
+
+# BERIKUT TAUTAN REPOSITORY GITHUB:
+
+https://github.com/Aliyahasmarani/ProjectUas2
+
